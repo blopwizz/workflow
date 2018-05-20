@@ -20,10 +20,14 @@ Install Atom
 
 https://atom.io/
 
+prettier-atom package
+
 Install Node.js
 
 https://nodejs.org/
 
-React Code Style with ESLint + Babel + Webpack
-
-https://www.robinwieruch.de/react-eslint-webpack-babel/
+Install yarn
+```
+brew update
+brew install yarn
+```
